@@ -1,0 +1,86 @@
+2025/08/07 13:07:38 main.go:25: === 目录同步程序启动 ===
+2025/08/07 13:07:38 main.go:26: 程序版本: 1.0.0
+2025/08/07 13:07:38 main.go:27: 操作系统: windows
+2025/08/07 13:07:41 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:07:41 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:07:41 syncer.go:52: 目录同步服务启动
+2025/08/07 13:07:41 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:07:41 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:07:41 syncer.go:79: 开始初始同步...
+2025/08/07 13:07:41 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:07:41 main.go:39: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:07:41 main.go:25: === 目录同步程序启动 ===
+2025/08/07 13:07:41 main.go:26: 程序版本: 1.0.0
+2025/08/07 13:07:41 main.go:27: 操作系统: windows
+2025/08/07 13:07:45 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:07:45 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:07:45 syncer.go:52: 目录同步服务启动
+2025/08/07 13:07:45 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:07:45 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:07:45 syncer.go:79: 开始初始同步...
+2025/08/07 13:07:45 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:07:45 main.go:39: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:10:31 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:10:31 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:10:31 main.go:32: 操作系统: windows
+2025/08/07 13:10:34 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:10:34 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:10:34 main.go:32: 操作系统: windows
+2025/08/07 13:10:34 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:34 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:10:34 syncer.go:52: 目录同步服务启动
+2025/08/07 13:10:34 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:10:34 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:10:34 syncer.go:79: 开始初始同步...
+2025/08/07 13:10:34 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:34 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:10:37 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:37 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:10:37 syncer.go:52: 目录同步服务启动
+2025/08/07 13:10:37 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:10:37 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:10:37 syncer.go:79: 开始初始同步...
+2025/08/07 13:10:37 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:37 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:10:37 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:10:37 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:10:37 main.go:32: 操作系统: windows
+2025/08/07 13:10:40 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:40 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:10:40 syncer.go:52: 目录同步服务启动
+2025/08/07 13:10:40 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:10:40 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:10:40 syncer.go:79: 开始初始同步...
+2025/08/07 13:10:40 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:10:40 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:14:01 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:14:01 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:14:01 main.go:32: 操作系统: windows
+2025/08/07 13:14:05 watcher.go:114: 访问路径失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:14:05 watcher.go:44: 文件监控启动，监控目录: D:iles	o_vps_sync
+2025/08/07 13:14:05 syncer.go:52: 目录同步服务启动
+2025/08/07 13:14:05 syncer.go:53: 本地目录: D:iles	o_vps_sync
+2025/08/07 13:14:05 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:14:05 syncer.go:79: 开始初始同步...
+2025/08/07 13:14:05 syncer.go:83: 访问文件失败 D:iles	o_vps_sync: CreateFile D:iles	o_vps_sync: The filename, directory name, or volume label syntax is incorrect.
+2025/08/07 13:14:05 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:16:42 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:16:42 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:16:42 main.go:32: 操作系统: windows
+2025/08/07 13:16:46 watcher.go:124: 添加监控路径: D:\files\to_vps_sync
+2025/08/07 13:16:46 watcher.go:44: 文件监控启动，监控目录: D:\files\to_vps_sync
+2025/08/07 13:16:46 syncer.go:52: 目录同步服务启动
+2025/08/07 13:16:46 syncer.go:53: 本地目录: D:\files\to_vps_sync
+2025/08/07 13:16:46 syncer.go:54: 远程目录: /root/web_host
+2025/08/07 13:16:46 syncer.go:79: 开始初始同步...
+2025/08/07 13:16:49 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序
+2025/08/07 13:18:12 main.go:30: === 目录同步程序启动 ===
+2025/08/07 13:18:12 main.go:31: 程序版本: 1.0.0
+2025/08/07 13:18:12 main.go:32: 操作系统: windows
+2025/08/07 13:18:15 watcher.go:124: 添加监控路径: D:\files\to_vps_sync
+2025/08/07 13:18:15 watcher.go:44: 文件监控启动，监控目录: D:\files\to_vps_sync
+2025/08/07 13:18:15 syncer.go:52: 目录同步服务启动
+2025/08/07 13:18:15 syncer.go:53: 本地目录: D:\files\to_vps_sync
+2025/08/07 13:18:15 syncer.go:54: 远程目录: /root/web/web_host
+2025/08/07 13:18:15 syncer.go:79: 开始初始同步...
+2025/08/07 13:18:17 main.go:44: 同步服务已启动，按 Ctrl+C 停止程序

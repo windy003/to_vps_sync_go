@@ -1,0 +1,35 @@
+# 目录同步配置文件
+local_directory: "D:\\files\\to_vps_sync"
+remote_directory: "/root/web/web_host"
+
+# VPS SSH 连接配置
+ssh:
+  host: "144.202.26.208"
+  port: 2222
+  username: "root"
+  password: "ALLrise258023"
+  # private_key_path: "C:\\path\\to\\private_key"  # 可选：使用密钥认证
+
+# 同步设置
+sync:
+  # 忽略的文件和目录
+  ignore_patterns:
+    # - ".git"
+    # - ".svn"
+    # - "*.tmp"
+    # - "*.log"
+    # - "*.swp"
+    # - ".DS_Store"
+    # - "Thumbs.db"
+  
+  # 是否删除远程不存在的文件
+  delete_remote: true
+  
+  # 同步间隔（秒）
+  sync_interval: 2
+
+# 日志配置
+log:
+  level: "info"  # debug, info, warn, error
+  file: "sync.log"
+  max_size_mb: 10
